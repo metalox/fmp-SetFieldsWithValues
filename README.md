@@ -4,7 +4,7 @@ version 1.00
 
 copyright Benedick Miller benlight.miller@gmail.com
 
-### REQUIERMENTS
+### Requirements
 
 Required Custom Functions:
 CustomList()
@@ -18,7 +18,7 @@ http://www.briandunning.com/cf/868
 #() ans #()Assign etc. are also available here:
 https://github.com/filemakerstandards/fmpstandards/tree/master/Functions/%23Name-Value
 
-### INTRODUCTION
+### Introduction
 
 The setFieldWithValues script can be used as is on any layout in any file. The script is driven by the Script Parameters supplied
  
@@ -26,11 +26,11 @@ Rather than creating many similar scripts to perform similar tasks on different 
 
 Basic usage is to set a field with a value, or with no value to clear the field. Many fields may be set with many values at the same time. In addition the set field actions may be preceded by a confirmation dialog and succeeded by various everyday actions such as commit recoord, refresh widow or portal or object and go to object.
 
-### USAGE
+### Usage
 
 Please see the main script: SetFieldsWithValue: setFieldsWithValues() which contains the usage documentation
 
-### INSTALLATION
+### Installation
 
 Make sure to install the required custom functions BEFORE installing the scripts folder
 
