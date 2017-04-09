@@ -20,7 +20,7 @@ https://github.com/filemakerstandards/fmpstandards/tree/master/Functions/%23Name
 
 ### Introduction
 
-The setFieldWithValues script can be used as is on any layout in any file. The script is driven by the script parameter supplied.
+The setFieldsWithValues script can be used as is on any layout in any file. The script is driven by the script parameter supplied.
  
 Rather than creating many similar scripts to perform similar tasks on different layouts here a single script script is re-useable anywhere by suppying specific instructions in the script parameter when the script is run. The script parameters can be created, edited and saved as snippets in a text editor. The intention is to save development time and to simplify the FileMaker solution by using abstraction.
 
