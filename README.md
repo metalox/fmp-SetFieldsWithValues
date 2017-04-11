@@ -24,7 +24,7 @@ The setFieldsWithValues script can be used as is on any layout in any file. The 
  
 Rather than creating many similar scripts to perform similar tasks on different layouts here a single script script is re-useable anywhere by suppying specific instructions in the script parameter when the script is run. The script parameters can be created, edited and saved as snippets in a text editor. The intention is to save development time and to simplify the FileMaker solution by using abstraction.
 
-Basic usage is to set a field with a value, or with no value to clear the field. Many fields may be set with many values at the same time. In addition the set field actions may be preceded by a confirmation dialog and succeeded by various everyday actions such as commit recoord, refresh widow or portal or object and go to object.
+Basic usage is to set a field with a value, or with no value to clear the field. Many fields may be set with many values at the same time. In addition the set field actions may be preceded by a confirmation dialog and succeeded by various everyday actions such as commit record, close popover, refresh widow or portal or object and go to object.
 
 ### Usage
 
